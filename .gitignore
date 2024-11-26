@@ -90,3 +90,6 @@ celerybeat-schedule
 # Environments files
 .env
 .env.*
+
+# Datasets
+Dataset/
