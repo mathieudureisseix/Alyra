@@ -3,7 +3,7 @@ from matplotlib import pyplot as plt
 import os
 
 # Chemin de base pour les répertoires des données
-base_dir = "Dataset/Photos"  # Chemin vers les photos
+base_dir = "../Dataset/Photos"  # Remonter au niveau du répertoire parent
 image_subdir = "train"  # Sous-dossier
 image_name = "1.jpg"
 
